@@ -1,3 +1,13 @@
+/*
+* File: body.js
+* Author: Sánta Renáta Diána
+* Copyright: 2023, Sánta Renáta Diána
+* Group: Szoft II N
+* Date: 2023-04-05
+* Github: https://github.com/SantaRenata/
+* Licenc: GNU GPL
+*/
+
 import React from "react";
 import { StyleSheet, Text, TextInput, TouchableHighlight, View } from "react-native";
 

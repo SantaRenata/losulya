@@ -1,3 +1,13 @@
+/*
+* File: App.js
+* Author: Sánta Renáta Diána
+* Copyright: 2023, Sánta Renáta Diána
+* Group: Szoft II N
+* Date: 2023-04-05
+* Github: https://github.com/SantaRenata/
+* Licenc: GNU GPL
+*/
+
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, View } from 'react-native';
 import Body from './components/body';

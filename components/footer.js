@@ -1,3 +1,13 @@
+/*
+* File: footer.js
+* Author: Sánta Renáta Diána
+* Copyright: 2023, Sánta Renáta Diána
+* Group: Szoft II N
+* Date: 2023-04-05
+* Github: https://github.com/SantaRenata/
+* Licenc: GNU GPL
+*/
+
 import { StyleSheet, Text, View } from "react-native";
 
 
